@@ -1,7 +1,7 @@
 ## Hello! I'm Carol Canelas! 👋🏼
 
 
-- 🔭 I’m currently working on VTEX
+- 🔭 I’m currently working at VTEX
 - 🌱 I’m currently learning front-end technologies
 - ⚡ Fun fact: Before working with technology I was a librarian 😊
 
