@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carolina Canelas</h1>
 <h3 align="center">A student very interested in coding and both frontend and backend technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=caroolcanelas&label=Profile%20views&color=0e75b6&style=flat" alt="caroolcanelas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caroolcanelas" alt="caroolcanelas" /></a> </p>
-
 - 🔭 I’m currently working on **VTEX**
 
 - 🌱 I’m currently learning **React and Java**
@@ -32,3 +28,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caroolcanelas&show_icons=true&locale=en" alt="caroolcanelas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caroolcanelas&" alt="caroolcanelas" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=caroolcanelas&label=Profile%20views&color=0e75b6&style=flat" alt="caroolcanelas" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caroolcanelas" alt="caroolcanelas" /></a> </p>
+
