@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at VTEX
-- 🌱 I’m currently learning front-end technologies
+- 🌱 I’m currently developping my knowledge on both front-end and back-end technologies
 - ⚡ Fun fact: Before working with technology I was a librarian 😊
 
 <div align="center">
