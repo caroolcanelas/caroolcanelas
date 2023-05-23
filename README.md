@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript**
 
-- 📫 How to reach me **carolcanelag@gmail.com**
+- 📫 How to reach me **carolcanelasg@gmail.com**
 
 - ⚡ Fun fact **Before working with technology I was a librarian 😊**
 
